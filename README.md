@@ -24,6 +24,11 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Ds exp 4 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/8f04cd20-74cf-475e-b647-9abe293a89ef)
+![Ds exp 4 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/e1f28053-229a-4f34-ae10-68d6b1ecfdf8)
+![Ds exp 4 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/c2cd6103-e36f-4b3a-950a-f2269404c0f3)
+![Ds exp 4 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/a283320b-fe2c-4e84-844e-94e58da44b5c)
+![Ds exp 4 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/d5e9cc64-5d9a-4dd8-9d9b-2a7be5c0caa5)
+![Ds exp 4 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/ef318839-1440-4c66-abd9-52ddb6905448)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus we have read and performed  Feature Scaling and Feature Selection process.
